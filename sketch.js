@@ -9,9 +9,9 @@ var palyer, playerBase, playerArcher;
 var baseimage;
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.png");
-  baseimage = loadImage("./assets/base.png");
-  playerimage = loadImage("./assets/player.png");
+  backgroundImg = loadImage("assets/background.png");
+  baseimage = loadImage("assets/base.png");
+  playerimage = loadImage("assets/player.png");
 }
 
 function setup() {
